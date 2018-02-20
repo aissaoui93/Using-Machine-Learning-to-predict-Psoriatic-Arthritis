@@ -1,4 +1,4 @@
-# Using-Machine-Learning-to-predict-Psoriatic-Arthritis
+# Using Machine Learning to predict Psoriatic Arthritis (PsA)
 Psoriasis is an immune-mediated inflammatory skin disorder that affects 2-3% of the population. Up to 30% of patients with psoriasis also develop psoriatic arthritis, a debilitating condition affecting the joints that significantly lowers patients' quality of life. 
 
 
